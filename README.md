@@ -6,7 +6,7 @@
 
 
 
-
+----------------------------------------------------------------------------------
 
 
 **1.OBJETIVO GENERAL**
@@ -22,7 +22,7 @@ II) Realizar ensayos del proyecto para identificar como funciona cada elemento c
 
 III) Hacer Funcionar el detector de nivel de agua  y defenderlo dentro de la clase para comprobar si se lo realizo correctamente.
 
-
+---------------------------------------------------------------------
 
 **1.3 MARCO TEÓRICO**
 
@@ -79,7 +79,10 @@ Materiales
 Se puede concluir que:
 
 
-El funcionamiento de un transistor bjt. ya sea npn o pnp, depende de la polarización que se le aplica en sus terminales , ya que una mala polarización podría funcionar mal todo el circuito en el que se le aplique o el usuario no podría tener los resultados satisfactorios
+...El funcionamiento de un transistor bjt. ya sea npn o pnp, depende de la polarización que se le aplica en sus terminales , ya que una mala polarización podría funcionar mal todo el circuito en el que se le aplique o el usuario no podría tener los resultados satisfactorios
+
+...Durante el proyecto se pudo comprobar el funcionamiento del transistor cuando este mandaba señales a los leds cuando se tocaba con el agua y subía su nivel dando como resultado que el proyecto si funciono y que podemos hacer diversas cosas con los transistores
+
 
 -------------------------------------------------------
 
