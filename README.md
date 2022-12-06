@@ -70,13 +70,15 @@ Materiales
 ----------------------------------------------------------------------- 
  
 **1.6 VIDEO**
-
+https://youtube.com/shorts/Fk6W_OtNJd4?feature=share
 
 
 -----------------------------------------
 
 **1.7 CONCLUSIONES**
+
 Se puede concluir que:
+
 
 
 ...El funcionamiento de un transistor bjt. ya sea npn o pnp, depende de la polarización que se le aplica en sus terminales , ya que una mala polarización podría funcionar mal todo el circuito en el que se le aplique o el usuario no podría tener los resultados satisfactorios
